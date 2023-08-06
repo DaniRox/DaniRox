@@ -1,5 +1,5 @@
 
-![](https://user-images.githubusercontent.com/108234679/250660556-2694b422-58dc-4896-8e20-768d57e0fc74.png)
+![](https://user-images.githubusercontent.com/108234679/258645008-cffd3acb-df68-40e1-9007-bdde26768982.png)
 
 <h1 align="center" font-size=23px>Desarrollo Front-end & Diseño UX</h1>
 
