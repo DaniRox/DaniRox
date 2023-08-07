@@ -18,3 +18,5 @@ Me dedico al desarrollo y diseño de páginas web, enfocándome especialmente en
 
 Además de mis esfuerzos en el desarrollo, también estoy invirtiendo tiempo en la formación en diseño UX. Esta combinación de habilidades me permite no solo crear interfaces atractivas y funcionales, sino también asegurarme de que sean intuitivas y accesibles para todos los usuarios.
 <br>
+En resumen, mi trayectoria se perfila hacia un desarrollo front-end y una eventual transición hacia un rol full stack. Mi enfoque en el diseño UX, la responsividad y la accesibilidad destaca mi compromiso con la calidad y la experiencia del usuario. Mi pasión y mi impulso por la mejora continua son la fuerza impulsora detrás de mi constante crecimiento en este apasionante campo.
+<br>
