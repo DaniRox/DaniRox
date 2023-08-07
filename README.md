@@ -4,8 +4,7 @@
 <h1 align="center" font-size=23px>Desarrollo Front-end & Diseño UX</h1>
 
 <p align="center" weight="700">
-Desarrollo y diseño páginas web, con especial enfoque en la experiencia del usuario.
-Apasionada el diseño y la tecnología. Con más de 5 años de experiencia en diseño digital, sigo formandome y desarrollando habilidades en el área.
+Me dedico al desarrollo y diseño de páginas web, enfocándome especialmente en la experiencia del usuario. Creo firmemente en la inclusión de todos al navegar en una aplicación o página web. Mi pasión por el diseño y la tecnología hacen que el trabajo de desarrollo front-end sea sumamente gratificante para mí. Mi principal objetivo es crear soluciones tecnológicas que sean útiles, funcionales, divertidas y estéticamente atractivas. Disfruto tanto creando como aprendiendo, lo que me impulsa a seguir mejorando y evolucionando en mi profesión.
 </p>
 <br>
 <br>
@@ -17,5 +16,5 @@ Apasionada el diseño y la tecnología. Con más de 5 años de experiencia en di
 <br>
 <br>
 
-En un mundo en continuo cambio la tecnología avanza sin freno, por lo cual una de mis metas fijas es mantenerme siempre actualizada y en formación constante.
+Además de mis esfuerzos en el desarrollo, también estoy invirtiendo tiempo en la formación en diseño UX. Esta combinación de habilidades me permite no solo crear interfaces atractivas y funcionales, sino también asegurarme de que sean intuitivas y accesibles para todos los usuarios.
 <br>
