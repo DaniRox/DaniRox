@@ -11,7 +11,7 @@ Me dedico al desarrollo y diseño de páginas web, enfocándome especialmente en
 
 <h1 font-size=14px>Tecnologías</h1>
 <p align="center">
-  <img width="60%" height="auto" src="https://user-images.githubusercontent.com/108234679/259548115-e8472471-1e71-473c-93f6-0d9e6ad7d146.png">
+  <img width="50%" height="auto" src="https://user-images.githubusercontent.com/108234679/259548115-e8472471-1e71-473c-93f6-0d9e6ad7d146.png">
 </p>
 <br>
 <br>
