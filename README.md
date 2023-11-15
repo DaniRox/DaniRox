@@ -5,6 +5,11 @@
 
 <p align="center" weight="700">
 Me dedico al desarrollo y diseño de páginas web, enfocándome especialmente en la experiencia del usuario. Creo firmemente en la inclusión de todos al navegar en una aplicación o página web. Mi pasión por el diseño y la tecnología hacen que el trabajo de desarrollo front-end sea sumamente gratificante para mí. Mi principal objetivo es crear soluciones tecnológicas que sean útiles, funcionales, divertidas y estéticamente atractivas. Disfruto tanto creando como aprendiendo, lo que me impulsa a seguir mejorando y evolucionando en mi profesión.
+
+¡HOLA MUNDO! Soy Dani, entusiasta del diseño y desarrollo que encuentra su alegría en el arte de programar. Llevo más de 7 años traduciendo ideas en diseños, y más de uno explorando el vasto terreno del Front-End y enamorándome de la magia que sucede cuando el diseño y la funcionalidad se entrelazan.
+
+En mis horas libres experimento con nuevas tecnologías, y perfecciono habilidades. Cuando no estoy frente a la pantalla, probablemente me encuentres disfrutando de mi familia y de la naturaleza.
+
 </p>
 <br>
 <br>
@@ -16,7 +21,7 @@ Me dedico al desarrollo y diseño de páginas web, enfocándome especialmente en
 <br>
 <br>
 
-Además de mis esfuerzos en el desarrollo, también estoy invirtiendo tiempo en la formación en diseño UX. Esta combinación de habilidades me permite no solo crear interfaces atractivas y funcionales, sino también asegurarme de que sean intuitivas y accesibles para todos los usuarios.
+Mi misión es clara: seguir evolucionando como desarrollador, absorber conocimiento como una esponja y dejar mi marca única en el vasto paisaje del código. Me dedico a un aprendizaje continuo, manteniéndome actualizada con las tendencias en diseño UX, explorando el marketing digital y fortalaciendo habilidades en soporte tecnológico. Busco proyectos que despierten mi curiosidad y me desafíen a crecer, ya sea perfeccionando mis habilidades actuales o aventurándome en territorios inexplorados.
 <br>
-En resumen, mi trayectoria se perfila hacia un desarrollo front-end y una eventual transición hacia un rol full stack. Mi enfoque en el diseño UX, la responsividad y la accesibilidad destaca mi compromiso con la calidad y la experiencia del usuario. Mi pasión y mi impulso por la mejora continua son la fuerza impulsora detrás de mi constante crecimiento en este apasionante campo.
+En este viaje, mi objetivo no es solo contribuir con código, sino también aprender de la comunidad, compartir conocimientos y crear algo que inspire a otros desarrolladores. ¡Acá estoy, lista para el próximo commit y emocionada por lo que depara el futuro del código! 
 <br>
