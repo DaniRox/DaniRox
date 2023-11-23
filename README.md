@@ -4,8 +4,6 @@
 <h1 align="center" font-size=23px>Desarrollo Front-end & Diseño UX</h1>
 
 <p align="center" weight="700">
-Me dedico al desarrollo y diseño de páginas web, enfocándome especialmente en la experiencia del usuario. Creo firmemente en la inclusión de todos al navegar en una aplicación o página web. Mi pasión por el diseño y la tecnología hacen que el trabajo de desarrollo front-end sea sumamente gratificante para mí. Mi principal objetivo es crear soluciones tecnológicas que sean útiles, funcionales, divertidas y estéticamente atractivas. Disfruto tanto creando como aprendiendo, lo que me impulsa a seguir mejorando y evolucionando en mi profesión.
-
 ¡HOLA MUNDO! Soy Dani, entusiasta del diseño y desarrollo que encuentra su alegría en el arte de programar. Llevo más de 7 años traduciendo ideas en diseños, y más de uno explorando el vasto terreno del Front-End y enamorándome de la magia que sucede cuando el diseño y la funcionalidad se entrelazan.
 
 En mis horas libres experimento con nuevas tecnologías, y perfecciono habilidades. Cuando no estoy frente a la pantalla, probablemente me encuentres disfrutando de mi familia y de la naturaleza.
