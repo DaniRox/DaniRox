@@ -1,7 +1,7 @@
 
 ![](https://user-images.githubusercontent.com/108234679/258645008-cffd3acb-df68-40e1-9007-bdde26768982.png)
 
-<h1 align="center" font-size=23px>Desarrollo Front-end & Diseño UX</h1>
+<h1 align="center" font-size=23px>Desarrollo Front-end</h1>
 
 <p align="center" weight="700">
 ¡HOLA MUNDO! Soy Dani, entusiasta del diseño y desarrollo que encuentra su alegría en el arte de programar. Llevo más de 7 años traduciendo ideas en diseños, y más de uno explorando el vasto terreno del Front-End y enamorándome de la magia que sucede cuando el diseño y la funcionalidad se entrelazan.
