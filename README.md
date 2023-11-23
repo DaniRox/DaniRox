@@ -5,9 +5,9 @@
 
 <p align="center" weight="700">
 ¡HOLA MUNDO! Soy Dani, entusiasta del diseño y desarrollo que encuentra su alegría en el arte de programar. Llevo más de 7 años traduciendo ideas en diseños, y más de uno explorando el vasto terreno del Front-End y enamorándome de la magia que sucede cuando el diseño y la funcionalidad se entrelazan.
-
+</p>  
+<p align="center" weight="700">
 En mis horas libres experimento con nuevas tecnologías, y perfecciono habilidades. Cuando no estoy frente a la pantalla, probablemente me encuentres disfrutando de mi familia y de la naturaleza.
-
 </p>
 <br>
 <br>
